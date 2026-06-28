@@ -82,36 +82,52 @@ Streamschuur exists to improve the experience around Jellyfin while respecting t
 
 ⸻
 
-🛣️ Roadmap
+🏚️ Streamschuur Roadmap
 
 v0.1 — Branding
 
-* Brand identity
-* Logo support
-* Login screen
-* Custom CSS
-* Header branding
-* Documentation
+* ✅ Brand identity
+* ✅ Logo support (Web)
+* ✅ Login branding (Web)
+* ✅ Header branding (Web)
+* ✅ Custom CSS framework
+* 🚧 Android TV branding (Wholphin)
+* 🚧 Desktop branding
+* ⏳ Documentation
 
 ⸻
 
-v0.2 — User Experience
+v0.2 — Branding Engine
+
+* branding.json support
+* Theme package (.zip)
+* Logo replacement
+* Banner replacement
+* Background replacement
+* Color presets
+* Branding import/export
+
+⸻
+
+v0.3 — User Experience
 
 * Improved homepage
 * Better navigation
 * Improved cards
 * Better spacing
 * UI polish
+* Better animations
 
 ⸻
 
-v0.3 — Streamschuur UI
+v0.4 — Streamschuur UI
 
-* Movie detail page redesign
-* Series detail page redesign
+* Movie detail redesign
+* Series detail redesign
 * Better metadata layout
-* Improved buttons
+* Better buttons
 * Better typography
+* Optional layouts
 
 ⸻
 
@@ -123,8 +139,11 @@ Future Ideas
 * Community branding packs
 * Moonfin branding support
 * Wholphin branding support
-* Additional UI layouts
-
+* Jellyfin Desktop branding
+* WebOS branding
+* Windows wrapper
+* Linux wrapper
+  
 ⸻
 
 🎨 Design Principles
